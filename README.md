@@ -6,6 +6,6 @@ Welcome to the Data Ingestion with LangChain notebook! This notebook serves as a
 
 By working through this notebook, you will:
 
-    Gain hands-on experience with LangChain for data workflows.
-    Understand best practices for ingesting and preprocessing data for LLM interactions.
-    Learn to set up efficient query and retrieval systems with LLM support, boosting data accessibility and analysis potential.
+Gain hands-on experience with LangChain for data workflows.
+Understand best practices for ingesting and preprocessing data for LLM interactions.
+Learn to set up efficient query and retrieval systems with LLM support, boosting data accessibility and analysis potential.
